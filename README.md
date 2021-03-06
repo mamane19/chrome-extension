@@ -18,7 +18,7 @@ Upload extension to chrome:
 6. fill up the required details and click `Download`
 7. Video will be downloaded to `YoutubeDownloader` folder in default downloads directory
    
-#Notes
+# Notes
 * This is the first attempt of doing this, I will surely be updating it and improving
 * I used a local server to help run the extension, and I have plans to change this
 * If you have any suggestions/feedback feel free to contact me, I am very open to that
